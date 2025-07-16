@@ -1,4 +1,7 @@
-## Hi there 👋
+## Henry Jackson
+- 17
+- He/Him
+- OCR H446 Candidate
 
 <!--
 **logHenry/logHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
