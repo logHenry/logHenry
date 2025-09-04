@@ -1,8 +1,13 @@
 ## Henry Jackson
 - 17
 - He/Him
-- OCR H446 Candidate
 
+# My General Brilliance
+- OCR H446 Candidate (Computer Science A-Level)
+- Also a candidate for AQA 7652 (French) and 7367 (Further Maths)
+- Completed Work Experience at the Met Office from 20.5.25 to 22.5.25
+- Completed Work Experience at Numatic International from 30.6.25 to 4.7.25
+- Experienced in Python and 3D CAD system SolidWorks
 <!--
 **logHenry/logHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
