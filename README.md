@@ -1,8 +1,8 @@
-## Henry Jackson
+# Henry Jackson
 - 17
 - He/Him
 
-# My General Brilliance
+## My General Brilliance
 - OCR H446 Candidate (Computer Science A-Level)
 - Also a candidate for AQA 7652 (French) and 7367 (Further Maths)
 - Completed Work Experience at the Met Office from 20.5.25 to 22.5.25
